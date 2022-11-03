@@ -12,7 +12,7 @@
 
 <h2 align="center">Our Commands</h2>
 <p align="center">
-<sub>There are currently 0 active user commands and 0 active moderation commands.</sub>
+<sub>There are currently 1 active user commands and 2 active moderation commands.</sub>
 </p>
 
 ### Verification Command
