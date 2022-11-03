@@ -5,6 +5,8 @@
     <img width="325" src="https://cdn.discordapp.com/attachments/1033407106725970014/1037775499235176498/imageedit_3_3533292139.png" alt="Vension Description">
 </p>
 
+────────────────────────────────────────────────────────────────────────────────────
+
 <h2 align="center">How does Raid Protection work?</h2>
 
 **This command is still work in progress and might have some problems. Please report any issues to our [Support Server](https://discord.gg/r2XgZRFnpv).  
