@@ -30,6 +30,8 @@
 - [Want to be a Contributor?](https://discord.gg/r2XgZRFnpv)
 - [Current Version:](https://discord.gg/r2XgZRFnpv) **v0.01**
 
+<h1 align="center">Footnotes</h1>
+
 [^1]: The custom commands aren't avaiable for everyone yet. Make sure to follow our [GitHub Page](https://github.com/Vension-Utilities) to get notified for future updates.
 [^2]: Set up notifications for your **Twitter, Instagram, YouTube, or Twitch** feed. If you encounter any errors, [please notify us](https://discord.gg/r2XgZRFnpv).
 [^3]: Our subreddit command always sends the latest post in a subreddit of your choice. The embed includes up votes and down votes.
