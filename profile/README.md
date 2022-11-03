@@ -5,7 +5,13 @@
     <img width="325" src="https://cdn.discordapp.com/attachments/1033407106725970014/1037775499235176498/imageedit_3_3533292139.png" alt="Vension Description">
 </p>
 
-<h1 align="center">Utilities</h1>
+────────────────────────────────────────────────────────────────────────────────────
+
+<p align="center">
+    <img width="370" src="https://cdn.discordapp.com/attachments/1033407106725970014/1037822475796500510/imageedit_19_8489709940.png" alt="Utilities">
+</p>
+
+────────────────────────────────────────────────────────────────────────────────────
 
 - Custom Commands [^1]
 - Social feed Commands [^2]
@@ -14,7 +20,13 @@
 - Leveling System & Reward System [^5]
 - [And more Commands avaiable](https://discord.gg/r2XgZRFnpv).
 
-<h1 align="center">Moderation</h1>
+────────────────────────────────────────────────────────────────────────────────────
+
+<p align="center">
+    <img width="370" src="https://cdn.discordapp.com/attachments/1033407106725970014/1037822236637278329/imageedit_15_4223666246.png" alt="Moderation">
+</p>
+
+────────────────────────────────────────────────────────────────────────────────────
 
 - Verification Command [^6]
 - Report Command [^7]
@@ -23,14 +35,22 @@
 - Moderation Commands [^10]
 - [And more Commands avaiable](https://discord.gg/r2XgZRFnpv).
 
-<h1 align="center">Resources</h1>
+────────────────────────────────────────────────────────────────────────────────────
+
+<p align="center">
+    <img width="370" src="https://cdn.discordapp.com/attachments/1033407106725970014/1037822236096200824/imageedit_17_6299572159.png" alt="Resources">
+</p>
+
+────────────────────────────────────────────────────────────────────────────────────
 
 - Our [Support Server](https://discord.gg/r2XgZRFnpv)
 - Our [Documentation](https://discord.gg/r2XgZRFnpv)
 - [Want to be a Contributor?](https://discord.gg/r2XgZRFnpv)
 - [Current Version:](https://discord.gg/r2XgZRFnpv) **v0.01**
 
-<h1 align="center">Footnotes</h1>
+<p align="center">
+    <img width="150" src="https://cdn.discordapp.com/attachments/1033407106725970014/1037821889684459622/754108811354046554.gif" alt="Clyde">
+</p>
 
 [^1]: The custom commands aren't avaiable for everyone yet. Make sure to follow our [GitHub Page](https://github.com/Vension-Utilities) to get notified for future updates.
 [^2]: Set up notifications for your **Twitter, Instagram, YouTube, or Twitch** feed. If you encounter any errors, [please notify us](https://discord.gg/r2XgZRFnpv).
