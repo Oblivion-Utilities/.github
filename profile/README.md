@@ -43,6 +43,7 @@
 
 ────────────────────────────────────────────────────────────────────────────────────
 
+- [Commands Avaiable:](https://discord.gg/r2XgZRFnpv) **19 User Commands, 13 Moderator Commands**
 - Our [Support Server](https://discord.gg/r2XgZRFnpv)
 - Our [Documentation](https://discord.gg/r2XgZRFnpv)
 - [Want to be a Contributor?](https://discord.gg/r2XgZRFnpv)
