@@ -1,8 +1,8 @@
 <p align="center">
-    <img width="250" src="https://cdn.discordapp.com/attachments/1033407106725970014/1039263926082343053/imageedit_1_4128404196.png" alt="Oblivion Avatar">
+    <img width="350" src="https://cdn.discordapp.com/attachments/1033407106725970014/1039263926082343053/imageedit_1_4128404196.png" alt="Oblivion Avatar">
 </p>
 <p align="center">
-    <img width="350" src="https://cdn.discordapp.com/attachments/1033407106725970014/1039263925620981851/imageedit_3_6550287866.png" alt="Oblivion Description">
+    <img width="425" src="https://cdn.discordapp.com/attachments/1033407106725970014/1039263925620981851/imageedit_3_6550287866.png" alt="Oblivion Description">
 </p>
 
 ────────────────────────────────────────────────────────────────────────────────────
