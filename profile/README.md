@@ -1,8 +1,8 @@
 <p align="center">
-    <img width="200" src="https://cdn.discordapp.com/attachments/1033407106725970014/1037755050686169118/imageedit_1_9874212136.png" alt="Vension Avatar">
+    <img width="200" src="https://cdn.discordapp.com/attachments/1033407106725970014/1039263926082343053/imageedit_1_4128404196.png" alt="Oblivion Avatar">
 </p>
 <p align="center">
-    <img width="325" src="https://cdn.discordapp.com/attachments/1033407106725970014/1037775499235176498/imageedit_3_3533292139.png" alt="Vension Description">
+    <img width="325" src="https://cdn.discordapp.com/attachments/1033407106725970014/1039263925620981851/imageedit_3_6550287866.png" alt="Oblivion Description">
 </p>
 
 ────────────────────────────────────────────────────────────────────────────────────
@@ -46,7 +46,7 @@
 - [Commands Avaiable:](https://discord.gg/r2XgZRFnpv) **19 User Commands, 13 Moderator Commands**
 - Our [Support Server](https://discord.gg/r2XgZRFnpv)
 - Our [Documentation](https://discord.gg/r2XgZRFnpv)
-- [Want to be a Contributor?](https://discord.gg/r2XgZRFnpv)
+- [Want to become a Contributor?](https://discord.gg/r2XgZRFnpv)
 - [Current Version:](https://discord.gg/r2XgZRFnpv) **v0.01**
 
 <p align="center">
